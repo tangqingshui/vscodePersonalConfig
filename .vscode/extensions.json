@@ -42,6 +42,7 @@
     "streetsidesoftware.code-spell-checker",
     "vscode-icons-team.vscode-icons",
     "vue.volar",
-    "wix.vscode-import-cost"
+    "wix.vscode-import-cost",
+    "dsznajder.es7-react-js-snippets"
   ]
 }
